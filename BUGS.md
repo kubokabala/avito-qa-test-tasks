@@ -77,6 +77,8 @@ Note: Строго по ТЗ баги для Задания 1 и Задания 
     Приоритет: Low
     ![image](https://github.com/user-attachments/assets/f5f6dba9-eb09-4c7e-b382-9d40d89ffd7e)
 
+    Note: между этими адресами целое Колпино помещается
+
 * Баги для Задания 2
 
 
